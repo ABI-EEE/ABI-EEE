@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ABI-EEE
-- 👀 I’m interested in ...learning programming
-- 🌱 I’m currently learning ...java programming
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...learning and working using programming
 - 📫 How to reach me ...9361327617
 
 <!---
